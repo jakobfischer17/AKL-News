@@ -3,7 +3,7 @@ My biggest application to date, developed as part of a team of 6 students. This 
 
 The application consists mainly of a fully-fledged web app that uses a web crawler to scan RSS-feeds for custom keywords and displays mathcing articles on the page neatly. Development was done in Ruby on Rails and PostgreSQL as the db.
 
-Unfortunately, the client company Archerknight Limited required the project team to sign an NDA, so I am not allowed to publish the source code here, however just message me for more infos or source code access.
+Unfortunately, the client company Archerknight Limited required the project team to sign an NDA, so I am not allowed to publish the source code here, however just dm me on Twitter (https://twitter.com/jfischer094) for more infos or source code access.
 The source code was originally hosted on private BitBucket repo.
 The application can be found at https://rak4.herokuapp.com , however it requires login. Message me for screenshots of the funcitonalities.
 
